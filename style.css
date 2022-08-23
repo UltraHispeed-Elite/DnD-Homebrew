@@ -1,0 +1,23 @@
+img {
+    height:200px;
+    width:200px;
+}
+
+.title {
+    background-image:url(img/space.png);
+}
+
+.navigation {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+#title_size {
+    color:aquamarine;
+    font-size:65px
+}
+
+#planets {
+    background-color:darkorchid;
+}
