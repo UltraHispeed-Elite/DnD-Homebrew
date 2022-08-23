@@ -1,3 +1,7 @@
+body {
+    background-color:orchid
+}
+
 img {
     height:200px;
     width:200px;
@@ -13,6 +17,11 @@ img {
     justify-content:space-evenly;
 }
 
+.class {
+    display:flex;
+    flex-wrap:wrap;
+}
+
 #title_size {
     color:aquamarine;
     font-size:65px
@@ -20,4 +29,12 @@ img {
 
 #planets {
     background-color:darkorchid;
+}
+
+#enemies {
+    background-color:azure;
+}
+
+#classes {
+    background-color:aqua;
 }
